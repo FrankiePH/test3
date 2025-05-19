@@ -8,7 +8,7 @@
       "minimumMultiplicity": "1",
       "maximumMultiplicity": "1",
       "mro": "M",
-      "name": "Person demographics TEST",
+      "name": "Person demographics TESTAGAIN",
       "implamentationGuidance": "<p>This section contains the person\u2019s demographic and contact details including key identifiers (e.g. name, date of birth, NHS number, address etc.\u00a0 \nNHS number (or equivalent, e.g. CHI number in Scotland), is likely to be the primary identifier however existing national guidance should be followed, including how to handle patients without an NHS number, for example, overseas visitors.\u00a0\u00a0\nThe PDS (Personal Demographics Service) should be used as the source of this information. The mandatory information in this section is person\u2019s name, date of birth and address. There can be multiple addresses associated with a person including temporary and correspondence addresses.\nTESTTEST</p>\n",
       "description": "The person's details and contact information.",
       "informationType": "Record",
