@@ -139,26 +139,6 @@
         },
         {
           "type": "item",
-          "minimumMultiplicity": "1",
-          "maximumMultiplicity": "1",
-          "mro": "M",
-          "name": "Date of birth",
-          "implamentationGuidance": "<div>\n                                    <p>How content is displayed in systems is outside of the scope of the diabetes record information standard. However, during the PRSB consultation health and care professionals expressed a desire for the age of the person (subject of record) to be displayed in systems alongside date of birth. Where this is done this could be displayed in parenthesis, e.g.\n                                        1986-01-07 (36y). An example age display scale can be found in the (now deprecated) NHS CUI (Common User Interface) standard (ISB 1500 \u2013 1508). *</p>\n                                    <p>* (see <a href=\"https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/isb-1500-1508-common-user-interface\">https://digital.nhs.uk/data-and-information/information-standards/information-standards-and-data-collections-including-extractions/publications-and-notifications/standards-and-collections/isb-1500-1508-common-user-interface</a> ; https://webarchive.nationalarchives.gov.uk/ukgwa/20160921150545/http://systems.digital.nhs.uk/data/cui/uig)</p>\n                                </div> \n                            ",
-          "description": "The date of birth of the person.",
-          "valueSets": "NHS data dictionary:-  <a href=\"https://datadictionary.nhs.uk/data_elements/person_birth_date.html?hl=person%2Cbirth%2Cdate\" target=\"\" title=\"\">Person birth date</a> \n                    ",
-          "valueDomain": [
-            {
-              "type": "date",
-              "property": [
-                {
-                  "timeStampPrecision": "YMD!"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "item",
           "minimumMultiplicity": "0",
           "maximumMultiplicity": "1",
           "mro": "R",
