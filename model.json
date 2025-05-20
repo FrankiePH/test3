@@ -158,6 +158,18 @@
           ]
         },
         {
+          "name": "New Item",
+          "mro": "M",
+          "description": "",
+          "valueSets": "",
+          "implamentationGuidance": "",
+          "informationType": "Record",
+          "type": "item",
+          "minimumMultiplicity": "0",
+          "maximumMultiplicity": "1",
+          "concept": []
+        },
+        {
           "name": "Ethnicity",
           "mro": "M",
           "description": "I added this back in after deleting it!",
