@@ -158,11 +158,11 @@
           ]
         },
         {
-          "name": "New Item",
+          "name": "Ethnicity",
           "mro": "M",
-          "description": "",
+          "description": "I added this back in after deleting it!",
           "valueSets": "",
-          "implamentationGuidance": "",
+          "implamentationGuidance": "<p>Very cool app</p>\n",
           "informationType": "Record",
           "type": "item",
           "minimumMultiplicity": "0",
