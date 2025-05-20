@@ -13,7 +13,20 @@
       "type": "item",
       "minimumMultiplicity": "0",
       "maximumMultiplicity": "1",
-      "concept": []
+      "concept": [
+        {
+          "name": "New Child",
+          "mro": "M",
+          "description": "",
+          "valueSets": "",
+          "implamentationGuidance": "",
+          "informationType": "Record",
+          "type": "item",
+          "minimumMultiplicity": "0",
+          "maximumMultiplicity": "1",
+          "concept": []
+        }
+      ]
     },
     {
       "type": "group",
