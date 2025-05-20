@@ -162,25 +162,6 @@
           "minimumMultiplicity": "0",
           "maximumMultiplicity": "1",
           "mro": "R",
-          "name": "Ethnicity",
-          "description": "The ethnicity of the person as specified by the person.",
-          "valueSets": "NHS data dictionary :-  <a href=\"https://datadictionary.nhs.uk/data_elements/ethnic_category.html\" target=\"\" title=\"\">Ethnic category</a> \n                    ",
-          "valueDomain": [
-            {
-              "type": "string",
-              "property": [
-                {
-                  "maxLength": "2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "minimumMultiplicity": "0",
-          "maximumMultiplicity": "1",
-          "mro": "R",
           "name": "Religion",
           "description": "The religious affiliation as specified by the person.",
           "valueSets": "\n                         <div>SNOMED_CT:- <a class=\"\" href=\"https://termbrowser.nhs.uk/?perspective=full&conceptId1=999000531000000100&edition=uk-edition&server=https://termbrowser.nhs.uk/sct-browser-api/snomed&langRefset=999001261000000100,999000691000001104\" target=\"\" title=\"\">Religion</a>\n                            <br clear=\"none\"/>\n                        </div> \n                    "
