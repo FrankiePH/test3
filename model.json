@@ -711,7 +711,7 @@
     {
       "name": "New Item",
       "mro": "M",
-      "description": "",
+      "description": "TEst",
       "valueSets": "",
       "implamentationGuidance": "",
       "informationType": "Record",
