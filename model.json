@@ -810,6 +810,18 @@
       ]
     },
     {
+      "name": "New Item",
+      "mro": "M",
+      "description": "",
+      "valueSets": "",
+      "implamentationGuidance": "",
+      "informationType": "Record",
+      "type": "item",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1",
+      "concept": []
+    },
+    {
       "type": "group",
       "minimumMultiplicity": "1",
       "maximumMultiplicity": "1",
