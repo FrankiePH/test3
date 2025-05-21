@@ -711,9 +711,9 @@
     {
       "name": "New Item",
       "mro": "M",
-      "description": "",
+      "description": "Test",
       "valueSets": "",
-      "implamentationGuidance": "",
+      "implamentationGuidance": "<p>Test</p>\n",
       "informationType": "Record",
       "type": "item",
       "minimumMultiplicity": "0",
